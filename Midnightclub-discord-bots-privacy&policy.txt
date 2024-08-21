@@ -1,0 +1,41 @@
+Midnight Club - Discord Bots - Privacy & Policy
+Last Updated: 08/21/2024 (M/D/YYYY)
+
+1. Introduction
+This document outlines how we collect, use, and protect information gathered through the use of our Discord bot. By using the bot, you agree to the terms of this Privacy Policy.
+
+2. Information Collected
+The bot may collect the following information:
+
+Message Data: The bot may collect textual content, images, and multimedia files sent by users in chats to provide its functionalities.
+Interaction Data: Information related to interactions with the bot, including commands used and messages exchanged.
+User Data: This may include usernames, user IDs, and roles within a Discord server.
+
+3. Use of Information
+The collected information is used to:
+
+Provide the primary functionalities of the bot.
+Improve and optimize the service.
+Respond to support requests or resolve technical issues.
+
+4. Sharing of Information
+We do not sell, trade, or otherwise transfer to outside parties your information. Information may be shared only in the following cases:
+
+With third-party service providers who help us manage and improve the service.
+If required by law or to protect our legal rights.
+
+5. Security
+We implement technical and organizational measures to protect the information collected against unauthorized access, loss, destruction, or alteration.
+
+6. User Rights
+Users can:
+
+Request the deletion of their data.
+Withdraw consent to the use of the bot at any time.
+Request access to the personal data we have collected.
+
+7. Changes to the Privacy Policy
+We reserve the right to modify this Privacy Policy at any time. Any changes will be communicated by updating the "Last Updated" date and posting a notice in the bot's support channel.
+
+8. Contact
+For questions regarding this Privacy Policy, you can contact us at yonakaclub.xyz@gmail.com
